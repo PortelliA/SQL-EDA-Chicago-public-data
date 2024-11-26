@@ -1,7 +1,7 @@
 # Chicago Data Analysis with SQL
 
 ## Project Summary
-This project is a small demonstration of SQL in action, using datasets provided by the City of Chicago’s Data Portal. The goal was to analyze data and solve assignment problems using three key datasets:
+This project is a small demonstration of SQL in action, using datasets provided by the City of Chicago’s Data Portal. The goal was to analyse data and solve assignment problems using three key datasets:
 
 1. **Socioeconomic Indicators in Chicago**:
    - Contains six socioeconomic indicators of public health significance and a "hardship index" for each Chicago community area from 2008-2012.
